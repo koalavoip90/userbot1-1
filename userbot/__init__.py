@@ -47,9 +47,9 @@ if CONFIG_CHECK:
          hashtag from the config.env file")
     quit(1)
 
-API_KEY = os.environ.get("API_KEY", "978227")
+API_KEY = os.environ.get("API_KEY", "1043383")
 
-API_HASH = os.environ.get("API_HASH", "
+API_HASH = os.environ.get("API_HASH", "d70ef7515a2ecaec54f91abc39ea6b24")
 cb6d622ea5d1734f3502ee06cd591cc4")
 
 BOTLOG_CHATID = int(os.environ.get("BOTLOG_CHATID", "0"))
